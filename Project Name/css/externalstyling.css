@@ -74,27 +74,34 @@ hr{
 	
 }
 .call{
-	height: 225px;
-	width: 400px;
+	height: 250px;
+	width: 300px;
 	background-color: violet;
-	margin: 2px 15px 15px 15px;
+	margin: 2px 15px 15px 25px;
 	position: relative;
 	top: 50px;
 	background-image: url('../images/images3.avif');
 }
 .kall{
-	height: 225px;
-	width: 400px;
+	height: 250px;
+	width: 300px;
 	background-color: orange;
 	position: absolute;
-	left: 40px;
-	background-image: url('../images/images8'.avif);
+	left: 100px;
+	background-image: url('../images/images11.avif');
 }
 .yall{
-	height:225px;
-	width: 400px;
+	height:250px;
+	width: 300px;
 	background-color: white;
-	position: fixed;
+	position: relative;
+	bottom: 150px;
+	left: 40px;
+	margin-left: 350px;
+}
+.vy{
+	font-size: 20px;
+	color: black;
 }
 .d{
 	height:550px;
@@ -119,7 +126,13 @@ hr{
 	margin-top: 30px;
 	float: left;
 	padding:10px 10px 10px;
-	background-image: url('../images/images3.avif');
+}
+.k img
+{
+	height: 100px;
+	width: 200px;
+	margin-left: 20px;
+	margin-top: 10px;
 }
 .ab{
     color: black;
@@ -149,7 +162,12 @@ hr{
 	margin-top: 30px;
 	float: left;
 	padding:10px 10px 10px;
-	background-image: url('../images/images1.avif');
+}
+.l img{
+	height: 100px;
+	width: 200px;
+	margin-left: 20px;
+	margin-top: 10px;
 }
 .ba{
 	color: black;
@@ -179,7 +197,12 @@ hr{
 	margin-top: 30px;
 	float: left;
 	padding:10px 10px 10px;
-	background-image: url('../images/images9.avif');
+}
+.m img{
+	height: 100px;
+	width: 200px;
+	margin-left: 20px;
+	margin-top: 10px;
 }
 .kl{
   color: black;
@@ -289,7 +312,11 @@ hr{
 	width: 200px;
 	background-color: white;
 	float: left;
-	background-image:url('../images/images4.webp');
+}
+.sri img{
+		height: 200px;
+		width: 150px;
+		margin-top: 60px;
 }
 .niv{
 	height: 300px;
@@ -300,7 +327,7 @@ hr{
 }
 .fa-brands{
 	color: purple;
-	font-size: 40px;
+	font-size: 80px;
 	margin-top: 20px;
 }
 .of{
@@ -323,7 +350,11 @@ hr{
     width: 200px;
 	background-color:white;
 	float: left;
-	background-image: url('../images/images5.png');
+}
+.vas img{
+	      height: 200px;
+		width: 150px;
+		margin-top: 60px;
 }
 .red{
      height: 300px;
@@ -339,6 +370,11 @@ hr{
    padding-top: 5px;
    color: black;
    font-size: 10px;
+}
+.fa-brands{
+	color: deeppink;
+	font-size: 15px;
+	padding-bottom: 10px;
 }
 .g{
 	height: 550px;
@@ -390,51 +426,195 @@ hr{
      font-size: 10px;
 }
 .situ{
-	height: 160px;
+	height: 150px;
 	width: 300px;
 	margin-left: 400px;
 	margin-bottom: 30px;
 	border-radius: 20px;
+	float: left;
 	background-color: white;
-	background-image: url('../images/images7.avif');
 }
-.brand{ 
-	   padding-left: 700px;
-	  color: white;
-      font-size: 20px;
+.situ img{
+	height: 150px;
+	width: 300px;
 }
-.strat{
-	  padding-left: 700px;
-	  color: white;
-      font-size: 10px;
+.ramu{
+    height: 150px;
+	width: 300px;
+	border-radius: 20px;
+	margin-right: 60px;
+	float: right;
+	color: white;
+	font-family: cursive;
+	font-size: 15px;
+	background-color: blue;
 }
 .situone{
-    height: 160px;
+	  height: 150px;
 	width: 300px;
 	margin-left: 400px;
-	margin-top: 40px;
-	margin-bottom: 30px;
+	margin-bottom: 20px;
 	border-radius: 20px;
+	float: left;
 	background-color: white;
-	background-image: url('../images/images8.avif');
+}
+.situone img{
+	height: 150px;
+	width: 300px;
+}
+.ramuone{
+	 height: 150px;
+	width: 300px;
+	border-radius: 20px;
+	margin-right: 60px;
+	margin-top: 20px;
+	float: right;
+	color: white;
+	font-family: cursive;
+	font-size: 15px;
+	background-color: blue;
 }
 .situtwo{
-     height: 160px;
+     height: 150px;
 	width: 300px;
 	margin-left: 400px;
 	margin-top: 40px;
 	border-radius: 20px;
+	float: left;
 	background-color:white;
-	background-image: url('../images/images10.avif');
 }
-.divone{
-	height: 600px;
+.situtwo img{
+	height: 150px;
+	width: 300px;
+}
+.ramutwo{
+	height: 150px;
+	width: 300px;
+	border-radius: 20px;
+	margin-right: 60px;
+	margin-top: 40px;
+	float: right;
+	color: white;
+	font-family: cursive;
+	font-size: 15px;
+	background-color: blue;
+}
+.pov{
+	height: 550px;
 	width: 1200px;
-	background-color: lightgrey;
+	background-color: grey;
 }
-.one{
-     height:400px;
-     width:800px;
-     margin-left: 120px;
-     background-color:white;
- }
+.vip{
+	height: 450px;
+	width: 400px;
+	background-color: deeppink;
+	margin-left: 350px;
+    position: relative;
+    top: 70px;
+}
+.rup{
+	height: 150px;
+	width: 150px;
+	background-color: blue;
+	float: left;
+	position: relative;
+	right: 130px;
+	top: 50px;
+}
+.rup img{
+	height: 150px;
+	width: 150px;
+}
+.rep{
+	height: 150px;
+	width: 150px;
+	background-color: pink;
+	float: left;
+	position: relative;
+	top: 50px;
+	right: 40px;
+}
+.rep img{
+	height: 150px;
+	width: 150px;
+}
+.rap{
+	height: 150px;
+	width: 150px;
+	background-color: orange;
+	float: left;
+	position: relative;
+	left: 370px;
+	bottom: 100px;
+}
+.rap img{
+	height: 150px;
+	width: 150px;
+}
+.rip{
+	height: 150px;
+	width: 150px;
+	background-color: yellow;
+	position: relative;
+	top: 210px;
+	right: 130px;
+}
+.sip{
+	height: 150px;
+	width: 150px;
+	background-color: red;
+	position: relative;
+	left: 110px;
+	top: 60px;
+}
+.sap{
+	height: 150px;
+	width: 150px;
+	background-color: steelblue;
+	position: relative;
+	left: 370px;
+	bottom: 90px;
+}
+.hap{
+	height: 250px;
+	width: 200px;
+	background-color: white;
+	position: relative;
+	bottom: 250px;
+	left: 450px;
+}
+.hip{
+    font-size: 20px;
+    font-family: italic;
+}
+.hop{
+ font-size: 10px;
+ font-family: cursive;
+}
+.hope{
+	height: 550px;
+	width: 1200px;
+	background-color: blue;
+}
+.hope img{
+	height: 550px;
+	width: 1200px;
+}
+.happy{
+	height: 400px;
+	width: 800px;
+	background-color: white;
+	position: relative;
+	bottom: 450px;
+	left: 150px;
+}
+.smile{
+      font-size: 40px;
+      color: black;
+      padding-top: 50px;
+}
+.laugh{
+      font-size: 20px;
+      color: black;
+      padding-top: 40px;
+}
